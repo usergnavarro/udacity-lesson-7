@@ -1,0 +1,37 @@
+.borda{
+    border:solid #e0dfdf;
+    width: 300px;
+    padding: 15px;
+    box-shadow: 10px 10px 5px #efeaea;
+}
+body{
+    font-family: "Times New Roman", Georgia, Serif;
+    line-height: 20px;
+}
+h3{
+    text-decoration: bold;
+    font-size: 25px;
+}
+li{
+   list-style-type: none;
+}
+span{
+    font-weight: bold;
+}
+.interesting{
+    font-style: italic;
+}
+.capivara{
+    width: 300px;
+    height: 250px;
+    margin-bottom: 10px;
+    border: solid 1px black;
+}
+.borda-2{
+    border:solid #e0dfdf;
+    padding: 10px;
+
+}
+ul{
+    padding-left: 0px;
+}
